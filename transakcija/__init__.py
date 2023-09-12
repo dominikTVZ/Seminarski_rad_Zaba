@@ -1,0 +1,1 @@
+from .transakcija import Transakcija

@@ -1,0 +1,1 @@
+from .osoba import Osoba
